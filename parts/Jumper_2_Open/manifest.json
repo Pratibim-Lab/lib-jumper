@@ -1,0 +1,17 @@
+{
+  "id": "Jumper/Jumper_2_Open:Jumper_2_Open",
+  "name": "Jumper_2_Open",
+  "library": "Jumper",
+  "file": "Jumper.kicad_symdir/Jumper_2_Open.kicad_sym",
+  "description": "Jumper, 2-pole, open",
+  "datasheet": "",
+  "keywords": "Jumper SPST",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-jumper@master/parts/Jumper_2_Open/",
+  "part_path": "parts/Jumper_2_Open",
+  "symbol_file": "parts/Jumper_2_Open/Jumper_2_Open.kicad_sym",
+  "source_library": "Jumper.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:38.887Z"
+}

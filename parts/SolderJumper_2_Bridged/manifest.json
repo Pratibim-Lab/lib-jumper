@@ -1,0 +1,17 @@
+{
+  "id": "Jumper/SolderJumper_2_Bridged:SolderJumper_2_Bridged",
+  "name": "SolderJumper_2_Bridged",
+  "library": "Jumper",
+  "file": "Jumper.kicad_symdir/SolderJumper_2_Bridged.kicad_sym",
+  "description": "Solder Jumper, 2-pole, closed/bridged",
+  "datasheet": "",
+  "keywords": "solder jumper SPST",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-jumper@master/parts/SolderJumper_2_Bridged/",
+  "part_path": "parts/SolderJumper_2_Bridged",
+  "symbol_file": "parts/SolderJumper_2_Bridged/SolderJumper_2_Bridged.kicad_sym",
+  "source_library": "Jumper.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:38.917Z"
+}

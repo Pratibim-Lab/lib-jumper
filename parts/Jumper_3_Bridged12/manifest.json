@@ -1,0 +1,17 @@
+{
+  "id": "Jumper/Jumper_3_Bridged12:Jumper_3_Bridged12",
+  "name": "Jumper_3_Bridged12",
+  "library": "Jumper",
+  "file": "Jumper.kicad_symdir/Jumper_3_Bridged12.kicad_sym",
+  "description": "Jumper, 3-pole, pins 1+2 closed/bridged",
+  "datasheet": "",
+  "keywords": "Jumper SPDT",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-jumper@master/parts/Jumper_3_Bridged12/",
+  "part_path": "parts/Jumper_3_Bridged12",
+  "symbol_file": "parts/Jumper_3_Bridged12/Jumper_3_Bridged12.kicad_sym",
+  "source_library": "Jumper.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:38.909Z"
+}

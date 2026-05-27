@@ -1,0 +1,17 @@
+{
+  "id": "Jumper/SolderJumper_3_Bridged123:SolderJumper_3_Bridged123",
+  "name": "SolderJumper_3_Bridged123",
+  "library": "Jumper",
+  "file": "Jumper.kicad_symdir/SolderJumper_3_Bridged123.kicad_sym",
+  "description": "Solder Jumper, 3-pole, pins 1+2+3 closed/bridged",
+  "datasheet": "",
+  "keywords": "Solder Jumper SPDT",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-jumper@master/parts/SolderJumper_3_Bridged123/",
+  "part_path": "parts/SolderJumper_3_Bridged123",
+  "symbol_file": "parts/SolderJumper_3_Bridged123/SolderJumper_3_Bridged123.kicad_sym",
+  "source_library": "Jumper.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:38.935Z"
+}

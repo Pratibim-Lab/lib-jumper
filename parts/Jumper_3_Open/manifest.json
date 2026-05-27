@@ -1,0 +1,17 @@
+{
+  "id": "Jumper/Jumper_3_Open:Jumper_3_Open",
+  "name": "Jumper_3_Open",
+  "library": "Jumper",
+  "file": "Jumper.kicad_symdir/Jumper_3_Open.kicad_sym",
+  "description": "Jumper, 3-pole, both open",
+  "datasheet": "",
+  "keywords": "Jumper SPDT",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-jumper@master/parts/Jumper_3_Open/",
+  "part_path": "parts/Jumper_3_Open",
+  "symbol_file": "parts/Jumper_3_Open/Jumper_3_Open.kicad_sym",
+  "source_library": "Jumper.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:38.914Z"
+}
